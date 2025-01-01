@@ -7,7 +7,6 @@ O conjunto de dados está disponível no Kaggle e refere-se a transações reali
 
 O objetivo deste projeto é construir um ***modelo preditivo***, utilizando o algoritmo XGBoost, que, de maneira o mais precisa possível, consiga identificar se uma transação é suspeita de fraude ou não. O dataset contém apenas variáveis numéricas de entrada, que resultam de uma transformação por Análise de Componentes Principais (PCA). As características, como V1, V2, ..., V28, representam os principais componentes extraídos pelo PCA, sendo que os dados originais não estão disponíveis. Em razão disso, informações adicionais sobre as características não podem ser fornecidas.
 
-### 🔗 [Link para o Dataset no Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
 
 ### 📊 Métricas
 
@@ -22,6 +21,7 @@ Dicionário de Variáveis
 
 - ***Class:*** Variável de resposta, indicando se a transação é fraudulenta. Assume valor 1 em caso de fraude e 0 caso contrário.
 
+
 ### ⚙️ Tecnologias Utilizadas
 
 - scikit-learn (versão 1.5.2): Métricas de Avaliação e Ferramentas utilitárias
@@ -29,3 +29,6 @@ Dicionário de Variáveis
 - matplotlib (3.10.0): Plotagem de Gráficos
 - numpy (1.26.4): Manipulação de Dados
 - pandas (2.2.3): Manipulação de Dados
+
+
+### 🔗 [Link para o Dataset no Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
