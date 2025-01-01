@@ -23,6 +23,7 @@ Dicionário de Variáveis
 
 
 ### ⚙️ Tecnologias Utilizadas
+#### Python: Ambiente de desenvolvimento 🐍
 
 - scikit-learn (versão 1.5.2): Métricas de Avaliação e Ferramentas utilitárias
 - xgboost (versão 2.1.3): Algoritmo usado para a Classificação Binária
