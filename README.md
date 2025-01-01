@@ -10,7 +10,7 @@ O objetivo deste projeto é construir um ***modelo preditivo***, utilizando o al
 O dataset original pode ser acessado no Kaggle através do seguinte link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
 
-### Métricas
+### 📊 Métricas
 
 Como estamos lidando com um problema de classificação binária, as métricas utilizadas para avaliar o desempenho do modelo serão: a matriz de confusão configurada com o padrão de normalização 'pred', de modo que os valores serão apresentados em forma de porcentagem relativa ao total de valores na classe real. Isso permite visualizar a relação de valores previstos corretamente, falsos positivos e falsos negativos. Além disso, utilizaremos a Área Sob a Curva de Precisão-Recall (AUPRC) e a Área Sob a Curva ROC (AUC-ROC) para avaliar o desempenho do modelo, especialmente em cenários de desbalanceamento de classes. Por fim, o método classification_report será utilizado para a avaliação de métricas adicionais.
 Dicionário de Variáveis
@@ -23,7 +23,7 @@ Dicionário de Variáveis
 
 - ***Class:*** Variável de resposta, indicando se a transação é fraudulenta. Assume valor 1 em caso de fraude e 0 caso contrário.
 
-### 🔧 Tecnologias Utilizadas
+### ⚙️ Tecnologias Utilizadas
 
 - scikit-learn (versão 1.5.2): Métricas de Avaliação e Ferramentas utilitárias
 - xgboost (versão 2.1.3): Algoritmo usado para a Classificação Binária
@@ -31,3 +31,4 @@ Dicionário de Variáveis
 - numpy (1.26.4): Manipulação de Dados
 - pandas (2.2.3): Manipulação de Dados
 
+### 🔗 Link para o Dataset no Kaggle
