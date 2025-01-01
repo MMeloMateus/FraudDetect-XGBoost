@@ -1,5 +1,5 @@
-# FraudDetect-XGBoost
-## Uso do XGboost na deteção de fraudes em transações de Cartões de Crédito
+# FraudDetect-XGBoost: Uso do XGboost na deteção de fraudes em transações de Cartões de Crédito
+## 📝 Descrição do Projeto
 
 Este é um projeto pessoal que faz parte dos meus estudos em Data Science, utilizando Python para análise e modelagem de dados.
 
@@ -23,11 +23,11 @@ Dicionário de Variáveis
 
 - ***Class:*** Variável de resposta, indicando se a transação é fraudulenta. Assume valor 1 em caso de fraude e 0 caso contrário.
 
-### Versões dos Pacotes
+### 🔧 Tecnologias Utilizadas
 
-- scikit-learn versão 1.5.2
-- xgboost versão 2.1.3
-- numpy 1.26.4
-- pandas 2.2.3
-- matplotlib 3.10.0
+- scikit-learn (versão 1.5.2): Métricas de Avaliação e Ferramentas utilitárias
+- xgboost (versão 2.1.3): Algoritmo usado para a Classificação Binária
+- matplotlib (3.10.0): Plotagem de Gráficos
+- numpy (1.26.4): Manipulação de Dados
+- pandas (2.2.3): Manipulação de Dados
 
