@@ -23,4 +23,11 @@ Dicionário de Variáveis
 
 - ***Class:*** Variável de resposta, indicando se a transação é fraudulenta. Assume valor 1 em caso de fraude e 0 caso contrário.
 
+### Versões dos Pacotes
+
+- scikit-learn versão 1.5.2
+- xgboost versão 2.1.3
+- numpy 1.26.4
+- pandas 2.2.3
+- matplotlib 3.10.0
 
