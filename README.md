@@ -31,4 +31,4 @@ Dicionário de Variáveis
 - numpy (1.26.4): Manipulação de Dados
 - pandas (2.2.3): Manipulação de Dados
 
-### 🔗 Link para o Dataset no Kaggle
+### 🔗 [Link para o Dataset no Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
