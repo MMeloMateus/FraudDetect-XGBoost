@@ -1,0 +1,8 @@
+# Core DS
+numpy
+pandas
+matplotlib
+
+# Machine Learning
+scikit-learn==1.5.2
+xgboost==2.1.3
