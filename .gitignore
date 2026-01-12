@@ -1,5 +1,6 @@
-# Ambiente virtual local (não versionar)
+# Ambiente virtual local 
 .venv/
+.vscode/
 
 # Dados não versionados (download via link no README)
 data/

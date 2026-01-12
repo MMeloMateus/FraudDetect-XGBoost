@@ -73,8 +73,8 @@ Por fim, utilizaremos o método classification_report para avaliar métricas adi
 - ***Class:*** Variável de resposta, indicando se a transação é fraudulenta. Assume valor 1 em caso de fraude e 0 caso contrário.
 
 
-### ⚙️ Tecnologias Utilizadas
-#### Python: Ambiente de desenvolvimento 🐍
+### Tecnologias Utilizadas
+#### Python: Ambiente de desenvolvimento 
 #### Bibliotecas
 
 - scikit-learn (versão 1.5.2): Métricas de Avaliação e Ferramentas utilitárias
@@ -84,4 +84,4 @@ Por fim, utilizaremos o método classification_report para avaliar métricas adi
 - pandas (2.2.3): Manipulação de Dados
 
 
-### 🔗 [Link para o Dataset Original no Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
+### [Link para o Dataset Original no Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
