@@ -51,7 +51,7 @@ $$
 Onde:
 
 $$
-\text{Precision} = \frac{TP}{TP + FP}, \quad
+\text{Precision} = \frac{TP}{TP + FP} \quad
 \text{Recall} = \frac{TP}{TP + FN}
 $$
 
