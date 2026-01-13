@@ -44,7 +44,8 @@ O F1-Score permite portanto, avaliar o modelo de forma equilibrada, priorizando 
 Ele é definido como:
 
 $$
-F1 = 2 \cdot \frac{\text{Precision} \cdot \text{Recall}}{\text{Precision} + \text{Recall}}
+F1 = 2 \cdot \frac{\text{Precision} \cdot \text{Recall}}
+{\text{Precision} + \text{Recall}}
 $$
 
 Onde:
@@ -53,6 +54,7 @@ $$
 \text{Precision} = \frac{TP}{TP + FP}, \quad
 \text{Recall} = \frac{TP}{TP + FN}
 $$
+
 
 - **TP** = True Positives (verdadeiros positivos)  
 - **FP** = False Positives (falsos positivos)  
